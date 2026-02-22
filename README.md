@@ -14,7 +14,7 @@
 <p align="right"><img align="right" width="30%" src="Pratish.jpg" alt="pratishbuzzra" /></p>
 <br>
 <p align="left">
-  🌱 I’m currently JavaScript Frontend and Backend Frameworks
+  🌱 I’m currently exploring JavaScript Frontend and Backend Frameworks
   <br>
   💬 Ask me about **React,Typescript**
   <br>
