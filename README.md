@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<p align="right"><img align="right" width="35%" top-margin="5px" src="pratish.jpg" alt="pratishbuzzra" /></p>
+<p align="right"><img align="right" width="30%" src="Pratish.jpg" alt="pratishbuzzra" /></p>
 <br>
 <p align="left">
   🌱 I’m currently JavaScript Frontend and Backend Frameworks
