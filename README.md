@@ -16,9 +16,9 @@
 <p align="left">
   🌱 I’m currently exploring JavaScript Frontend and Backend Frameworks
   <br>
-  💬 Ask me about **React,Typescript**
+  💬 Ask me about <strong>JavaScript, ReactJs</strong>
   <br>
-  📫 How to reach me **bajracharyapratish148@gmail.com**
+  📫 How to reach me <strong>bajracharyapratish148@gmail.com</strong>
 </p>
 
 
